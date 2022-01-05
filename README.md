@@ -1,5 +1,9 @@
 # pasteurizerAnalysis
 
+Project 초기 단계에서 Flask를 활용하여 웹서버를 구축하였으며
+
+최종 단계에서는 Dash를 사용하여 웹서버를 구축하였습니다.
+
 데이터셋 출처는 다음과 같습니다 :  
 (https://www.kamp-ai.kr/front/faq/faq-list.jsp 에 의거 표기)  
 
