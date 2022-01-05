@@ -1,11 +1,9 @@
 # pasteurizerAnalysis
 
-Project 초기 단계에서 Flask를 활용하여 웹서버를 구축하였으며
-
+Project 초기 단계에서 Flask를 활용하여 웹서버를 구축하였으며\n
 최종 단계에서는 Dash를 사용하여 웹서버를 구축하였습니다.
 
-필요 라이브러리 리스트 : requirements.txt 다운로드 후
-
+필요 라이브러리 리스트 : requirements.txt 다운로드 후\n
 　　　　　　　　　　　 cmd> pip install -r requirements.txt
 
 데이터셋 출처는 다음과 같습니다 :  
