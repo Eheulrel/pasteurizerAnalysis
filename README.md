@@ -16,4 +16,4 @@ Korea AI Manufacturing Platform(KAMP),
 살균기 AI 데이터셋,  
 KAIST (수행기관: ㈜ 임픽스/한양대학교 산학협력단/㈜아큐라소프트),  
 2020.12.14 (최종수정일: 2021.02.16),  
-https://kamp-ai.kr
+https://www.kamp-ai.kr/front/dataset/AiDataDetail.jsp?AI_SEARCH=&page=1&DATASET_SEQ=10&EQUIP_SEL=&FILE_TYPE_SEL=&GUBUN_SEL=&WDATE_SEL=
